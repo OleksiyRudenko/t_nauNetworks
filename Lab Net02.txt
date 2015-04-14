@@ -1,0 +1,3 @@
+Type		Cable			Topology
+10/100Base-FX	Fiber Optic		Tree, Star, Circle/FDDI
+10Base5		Thick Coaxial		Bus
